@@ -25,7 +25,7 @@ O Ruby possui uma série de características importantes, como por exemplo:
  - Está disponível em várias plataformas e arquiteturas, tais como Linux, macOS e Windows (e outras!).
  - Suporta closures, iteradores, mixins, exceções, sobrecarga, blocos e reflexão, entre outros recursos especializados.
  - Trata-se de uma linguagem bastante expressiva e declarativa – com uma sintaxe muito elegante.
- - 
+ 
 O site oficial do Ruby é o www.ruby-lang.org
 
 
@@ -40,7 +40,7 @@ Existem, na prática, várias implementações distintas da linguagem Ruby. A ma
  - IronRuby (integrada ao .NET Framework)
  - Maglev
  - Cardinal
- - 
+ 
 Entre outras. Em nossas aulas trabalharemos com a implementação padrão.
 
 
@@ -57,7 +57,7 @@ Muitas empresas ao redor do mundo empregam o Ruby e seus frameworks para desenvo
  - SoundCloud
  - Shopify
  - Twitch
- - 
+ 
 Entre muitas outras.
 
 
@@ -74,17 +74,17 @@ Para mostrar o quão simples e elegante é um código escrito em Ruby (sem causa
 
 Olá Bóson em Java:
 
-package olaBoson;
-public class OlaBoson {
-    public static void main(String[] args) {
-        System.out.println("Olá Bóson!");
-    }
-}
+   package olaBoson;
+   public class OlaBoson {
+       public static void main(String[] args) {
+           System.out.println("Olá Bóson!");
+       }
+   }
 
 
 Olá Bóson em Ruby:
 
-puts "Olá Bóson"
+   puts "Olá Bóson"
 
 Uma única linha de código resolve o problema em Ruby.
 
