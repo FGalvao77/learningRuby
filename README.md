@@ -74,17 +74,17 @@ Para mostrar o quão simples e elegante é um código escrito em Ruby (sem causa
 
 Olá Bóson em Java:
 
-      `package olaBoson; 
+      package olaBoson; 
        public class OlaBoson {
           public static void main(String[] args) {
             System.out.println("Olá Bóson!");
           }
-       }`
+       }
 
 
 Olá Bóson em Ruby:
 
-      `puts "Olá Bóson"`
+      puts "Olá Bóson"`
 
 Uma única linha de código resolve o problema em Ruby.
 
